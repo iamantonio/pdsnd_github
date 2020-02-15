@@ -33,7 +33,7 @@ quickly answer the following questions using Pandas:
         a. The user is asked if he/she wants to view 5 rows of raw data and will continue to view the next five rows if they wish. 
 
 ### Files used
-Data files used:
+Data files used:  
     chicago.csv  
     new_york_city.csv  
     washington.csv  
