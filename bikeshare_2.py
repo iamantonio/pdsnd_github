@@ -20,7 +20,7 @@ def get_filters():
     usr_name = input('Before we get started, what is your name?: ').capitalize()
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
-        city = input(f"\n{usr_name}, what city are you interested in getting bikeshare data for?\n"
+        city = input(f"\nThank you {usr_name}! What city are you interested in getting bikeshare data for?\n"
                      f"Please type in the one of the following: Chicago, New York City, or Washington\n"
                      f"City Name: ").lower().replace(" ",
                                                      "_")
