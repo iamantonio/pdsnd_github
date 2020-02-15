@@ -1,0 +1,7 @@
+## Data Files ##
+################
+*.csv
+
+## Jupyter Files ##
+###################
+*.ipynb
