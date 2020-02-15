@@ -201,7 +201,7 @@ def display_raw_data(df):
         elif user_request == 'no':
             break
         else:
-            print('Please type in either "Yes" or "No"')
+            print('Sorry, I do not understand.\n Please type in either "Yes" or "No"')
 
 
 def main():
