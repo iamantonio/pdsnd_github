@@ -34,9 +34,9 @@ quickly answer the following questions using Pandas:
 
 ### Files used
 Data files used:
-    chicago.csv
-    new_york_city.csv
-    washington.csv
+    chicago.csv  
+    new_york_city.csv  
+    washington.csv  
 
 
 
